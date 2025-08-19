@@ -37,6 +37,8 @@ Resources to check if I forget something
 
 ## JavaScript
 
+[JS built in objects](https://www.tutorialride.com/javascript/javascript-built-in-objects.htm)
+
 ## React
 
 ## Mode
