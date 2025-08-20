@@ -39,6 +39,8 @@ Resources to check if I forget something
 
 [JS built in objects](https://www.tutorialride.com/javascript/javascript-built-in-objects.htm)
 
+[Implicit Coercion](https://dev.to/promisetochi/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
+
 ## React
 
 ## Mode
